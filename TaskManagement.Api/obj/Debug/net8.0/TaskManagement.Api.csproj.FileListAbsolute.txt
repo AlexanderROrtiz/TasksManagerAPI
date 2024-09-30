@@ -1,0 +1,645 @@
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.deps.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.runtimeconfig.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.deps.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.runtimeconfig.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.exe
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.exe
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.deps.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.runtimeconfig.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.exe
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\libcrypto-3.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\libcurl.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\librdkafka.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\librdkafkacpp.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\libssl-3.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\msvcp140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\vcruntime140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\zlib1.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\zstd.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\libcrypto-3-x64.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\libcurl.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\librdkafka.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\librdkafkacpp.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\libssl-3-x64.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\msvcp140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\vcruntime140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\zlib1.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\zstd.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.exe
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.deps.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.runtimeconfig.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Castle.Facilities.Logging.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Castle.Windsor.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Ensure.That.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Improving.MediatR.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\MediatR.Commands.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\SmartFormat.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.csproj.AssemblyReference.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.AssemblyInfoInputs.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.AssemblyInfo.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagement.Api.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagement.Api.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagement.Api.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.Api.styles.css
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskMana.88DA88F4.Up2Date
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\refint\TaskManagement.Api.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.genruntimeconfig.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\ref\TaskManagement.Api.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.deps.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.runtimeconfig.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.deps.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.runtimeconfig.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.exe
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.exe
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.deps.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.runtimeconfig.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.exe
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\libcrypto-3.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\libcurl.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\librdkafka.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\librdkafkacpp.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\libssl-3.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\msvcp140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\vcruntime140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\zlib1.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\zstd.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\libcrypto-3-x64.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\libcurl.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\librdkafka.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\librdkafkacpp.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\libssl-3-x64.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\msvcp140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\vcruntime140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\zlib1.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\zstd.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.exe
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.deps.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.runtimeconfig.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Castle.Facilities.Logging.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Castle.Windsor.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Ensure.That.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Improving.MediatR.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\MediatR.Commands.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\SmartFormat.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.csproj.AssemblyReference.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.AssemblyInfoInputs.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.AssemblyInfo.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagement.Api.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagement.Api.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagement.Api.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.Api.styles.css
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskMana.88DA88F4.Up2Date
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\refint\TaskManagement.Api.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.genruntimeconfig.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\ref\TaskManagement.Api.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\libcrypto-3.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\libcurl.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\librdkafka.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\librdkafkacpp.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\libssl-3.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\msvcp140.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\vcruntime140.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\zlib1.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x86\zstd.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\libcrypto-3-x64.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\libcurl.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\librdkafka.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\librdkafkacpp.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\libssl-3-x64.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\msvcp140.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\vcruntime140.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\zlib1.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\librdkafka\x64\zstd.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\appsettings.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.deps.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.runtimeconfig.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.deps.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.runtimeconfig.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.exe
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.exe
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.deps.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.runtimeconfig.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.exe
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.exe
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.deps.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.runtimeconfig.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Api.pdb
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\AutoMapper.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Castle.Core.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Castle.Facilities.Logging.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Castle.Windsor.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Ensure.That.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\FluentAssertions.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Humanizer.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Improving.MediatR.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\MediatR.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\MediatR.Commands.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Web.Http.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\SmartFormat.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\linux-arm64\native\librdkafka.so
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\linux-x64\native\centos8-librdkafka.so
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\linux-x64\native\librdkafka.so
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\libcurl.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\librdkafka.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\zstd.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\libcurl.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\librdkafka.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\libssl-3.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\msvcp140.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\vcruntime140.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\zstd.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Infrastructure.pdb
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Application.pdb
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\bin\Debug\net8.0\TaskManagement.Domain.pdb
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.csproj.AssemblyReference.cache
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.AssemblyInfoInputs.cache
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.AssemblyInfo.cs
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.csproj.CoreCompileInputs.cache
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.sourcelink.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagement.Api.props
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagement.Api.props
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagement.Api.props
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.Api.styles.css
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskMana.88DA88F4.Up2Date
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\refint\TaskManagement.Api.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.pdb
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\TaskManagement.Api.genruntimeconfig.cache
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Api\obj\Debug\net8.0\ref\TaskManagement.Api.dll

@@ -1,0 +1,103 @@
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\appsettings.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.exe
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.deps.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.runtimeconfig.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfo.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Domain.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagement.Domain.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagement.Domain.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagement.Domain.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.Domain.styles.css
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskMana.8350F454.Up2Date
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\refint\TaskManagement.Domain.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.genruntimeconfig.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net7_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\ref\TaskManagement.Domain.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\appsettings.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.exe
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.deps.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.runtimeconfig.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfo.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Domain.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagement.Domain.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagement.Domain.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagement.Domain.props
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.Domain.styles.css
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskMana.8350F454.Up2Date
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\refint\TaskManagement.Domain.dll
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.genruntimeconfig.cache
+C:\Users\orti803786\OneDrive - SIIGO SAS\Documentos\ASIGNACIONES\Proyecto.Net8_Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\ref\TaskManagement.Domain.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\appsettings.Development.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\appsettings.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.exe
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.deps.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.runtimeconfig.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.pdb
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\FluentValidation.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.AssemblyReference.cache
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfo.cs
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.sourcelink.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets.build.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets.development.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Domain.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagement.Domain.props
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagement.Domain.props
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagement.Domain.props
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.Domain.styles.css
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskMana.8350F454.Up2Date
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\refint\TaskManagement.Domain.dll
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.pdb
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.genruntimeconfig.cache
+D:\Proyectos .Net8-Angular\TaskManagementService\TaskManagement.Domain\obj\Debug\net8.0\ref\TaskManagement.Domain.dll

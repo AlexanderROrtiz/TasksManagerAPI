@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagement.Application", "TaskManagementService\TaskManagement.Application.csproj", "{42773E13-D85E-488F-89CF-3BD32503F7F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagement.Api", "TaskManagement.Api\TaskManagement.Api.csproj", "{253AA53C-98E6-418F-A47E-DB58954A4BEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagement.Domain", "TaskManagement.Domain\TaskManagement.Domain.csproj", "{36285434-6A4B-4B06-86BD-E0248AAC7D89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagement.Infrastructure", "TaskManagement.Infrastructure\TaskManagement.Infrastructure.csproj", "{463FAAFB-BFF1-419F-8333-4F2EEAB2228A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{4167CC36-CF07-452F-806D-65D6D2AB947B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagement.Api.Test", "TaskManagement.Api.Test\TaskManagement.Api.Test.csproj", "{F8EBC044-43F1-437E-9F40-8510C8E77A65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{EC2CCFF4-B400-43FE-ACE9-4D8D648B21FF}"
+	ProjectSection(SolutionItems) = preProject
+		.dockerignore = .dockerignore
+		.gitignore = .gitignore
+		docker-compose.yml = docker-compose.yml
+		Dockerfile = Dockerfile
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{C6CC4075-3FBF-4B53-8D55-F15FECDC4579}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{ED1C83F3-E33B-4411-872C-6AEFF2587791}"
+	ProjectSection(SolutionItems) = preProject
+		ci-cd.yml = ci-cd.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42773E13-D85E-488F-89CF-3BD32503F7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42773E13-D85E-488F-89CF-3BD32503F7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42773E13-D85E-488F-89CF-3BD32503F7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42773E13-D85E-488F-89CF-3BD32503F7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253AA53C-98E6-418F-A47E-DB58954A4BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253AA53C-98E6-418F-A47E-DB58954A4BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253AA53C-98E6-418F-A47E-DB58954A4BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253AA53C-98E6-418F-A47E-DB58954A4BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36285434-6A4B-4B06-86BD-E0248AAC7D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36285434-6A4B-4B06-86BD-E0248AAC7D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36285434-6A4B-4B06-86BD-E0248AAC7D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36285434-6A4B-4B06-86BD-E0248AAC7D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463FAAFB-BFF1-419F-8333-4F2EEAB2228A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463FAAFB-BFF1-419F-8333-4F2EEAB2228A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463FAAFB-BFF1-419F-8333-4F2EEAB2228A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463FAAFB-BFF1-419F-8333-4F2EEAB2228A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EBC044-43F1-437E-9F40-8510C8E77A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EBC044-43F1-437E-9F40-8510C8E77A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EBC044-43F1-437E-9F40-8510C8E77A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EBC044-43F1-437E-9F40-8510C8E77A65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F8EBC044-43F1-437E-9F40-8510C8E77A65} = {4167CC36-CF07-452F-806D-65D6D2AB947B}
+		{C6CC4075-3FBF-4B53-8D55-F15FECDC4579} = {EC2CCFF4-B400-43FE-ACE9-4D8D648B21FF}
+		{ED1C83F3-E33B-4411-872C-6AEFF2587791} = {C6CC4075-3FBF-4B53-8D55-F15FECDC4579}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {012430B9-A3C6-4411-8709-A404912337A1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "QD3nSsFas8dvbb5AKj7VBVM3JlRIhersZZpbBFgwzqs=",
+  "Source": "TaskManagement.Infrastructure",
+  "BasePath": "_content/TaskManagement.Infrastructure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Proyectos .Net8-Angular\\TaskManagementService\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+      "Version": 2,
+      "Source": "TaskManagement.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
